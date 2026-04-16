@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Luna",
+    "bio": "Soy una galga elegante que adora las carreras en el campo.\nSoy algo tímida al principio pero muy leal una vez que confío.\nAdóptame y llenaré tus días de paz y mucho cariño.",
+    "breed": "Galg"
+  },
+  {
+    "id": 2,
+    "name": "Bruno",
+    "bio": "Un Bulldog Francés con mucha personalidad y ronquidos graciosos.\nMe llevo genial con gatos y vivo perfectamente en apartamentos.\n¡Estoy esperando por ti para ver películas juntos en el sofá!",
+    "breed": "Bulldog Francés"
+  },
+  {
+    "id": 3,
+    "name": "Rocky",
+    "bio": "Pastor Alemán joven rescatado con un corazón de puro oro.\nSoy muy inteligente, obediente y protejo siempre a los que quiero.\nBusco un hogar con espacio para jugar y seguir aprendiendo.",
+    "breed": "Pastor Alemán"
+  },
+  {
+    "id": 4,
+    "name": "Kira",
+    "bio": "Pequeña mestiza aventurera que cabe perfectamente en tu regazo.\nAmo los mimos intensos y dormir bajo las sábanas en invierno.\nSoy la compañera ideal para alguien que busque amor incondicional.",
+    "breed": "Mestiza"
+  },
+  {
+    "id": 5,
+    "name": "Toby",
+    "bio": "Golden Retriever de 3 años, experto en atrapar pelotas al vuelo.\nMi cola no deja de moverse cuando veo a mis humanos favoritos.\nPrometo ser el mejor amigo que hayas tenido en toda tu vida.",
+    "breed": "Golden Retriever"
+  },
+  {
+    "id": 6,
+    "name": "Lola",
+    "bio": "Cocker Spaniel senior que busca un rincón tranquilo y cálido.\nSoy muy calmada y disfruto de los paseos lentos bajo el sol.\nMerezco pasar mis años dorados rodeada de mucha ternura.",
+    "breed": "Cocker Spaniel"
+  },
+  {
+    "id": 7,
+    "name": "Simba",
+    "bio": "Cachorro de Labrador lleno de energía y ganas de explorar el mundo.\nMe encanta el agua y jugar con niños de todas las edades.\nNecesito una familia activa que me enseñe muchas cosas nuevas.",
+    "breed": "Labrador"
+  },
+  {
+    "id": 8,
+    "name": "Coco",
+    "bio": "Caniche Toy muy inteligente que siempre está alerta y alegre.\nNo suelto pelo y soy ideal para personas con alergias leves.\n¡Dámelo todo con caricias y te daré mi lealtad eterna!",
+    "breed": "Caniche Toy"
+  },
+  {
+    "id": 9,
+    "name": "Bimba",
+    "bio": "Podenca rescatada, ágil como ninguna y con orejas divertidas.\nMe encanta saltar y correr libremente en áreas seguras.\nBusco una familia que entienda mi naturaleza curiosa y activa.",
+    "breed": "Podenca"
+  },
+  {
+    "id": 10,
+    "name": "Thor",
+    "bio": "Rotweiler de gran tamaño pero con un alma de bebé consentido.\nSoy muy sociable con otros perros y me encanta recibir premios.\nNo te dejes engañar por mi tamaño, soy pura dulzura.",
+    "breed": "Rotweiler"
+  },
+  {
+    "id": 11,
+    "name": "Max",
+    "bio": "Beagle travieso con un olfato prodigioso para las aventuras.\nMe encanta seguir rastros y aullar de felicidad al verte llegar.\nIdeal para familias que disfruten de caminatas por el bosque.",
+    "breed": "Beagle"
+  },
+  {
+    "id": 12,
+    "name": "Maya",
+    "bio": "Border Collie incansable que necesita retos mentales constantes.\nSoy la más lista de la clase y aprendo trucos en segundos.\nBusco un dueño que quiera practicar agility o senderismo conmigo.",
+    "breed": "Border Collie"
+  },
+  {
+    "id": 13,
+    "name": "Rex",
+    "bio": "Doberman rescatado, elegante y con una presencia imponente.\nSoy un excelente guardián y un compañero extremadamente fiel.\nNecesito un líder firme pero cariñoso que me guíe siempre.",
+    "breed": "Doberman"
+  },
+  {
+    "id": 14,
+    "name": "Nala",
+    "bio": "Boxer juguetona que siempre parece estar sonriendo de oreja a oreja.\nMe encanta saltar para dar besos y jugar con mi cuerda favorita.\nSoy pura alegría y energía concentrada en cuatro patas.",
+    "breed": "Boxer"
+  },
+  {
+    "id": 15,
+    "name": "Zeus",
+    "bio": "Gran Danés de pasos majestuosos y un corazón gigante como yo.\nPrefiero las siestas largas a las carreras intensas por el parque.\nBusco una casa grande donde mis estiramientos no rompan nada.",
+    "breed": "Gran Danés"
+  },
+  {
+    "id": 16,
+    "name": "Bella",
+    "bio": "Chihuahua valiente que no le teme a nada, a pesar de mi tamaño.\nSoy la reina de la casa y me encanta que me lleven a pasear.\nBusco a alguien que me consienta y me proteja del frío.",
+    "breed": "Chihuahua"
+  },
+  {
+    "id": 17,
+    "name": "Jack",
+    "bio": "Jack Russell Terrier con una batería que parece no agotarse nunca.\nSoy experto en cavar hoyos y perseguir pelotas de tenis.\nNecesito mucha actividad física para ser un perro equilibrado.",
+    "breed": "Jack Russell Terrier"
+  },
+  {
+    "id": 18,
+    "name": "Molly",
+    "bio": "Mestiza de pelo largo que parece un peluche viviente y suave.\nSoy muy paciente con los niños y me encanta que me cepillen.\nSolo busco un hogar donde me quieran tanto como yo a ellos.",
+    "breed": "Mestiza"
+  },
+  {
+    "id": 19,
+    "name": "Duke",
+    "bio": "Mastín tranquilo que disfruta de la vida contemplativa en el jardín.\nSoy un gigante noble que solo pide un poco de espacio y comida.\nPerfecto para una casa de campo con gente tranquila como yo.",
+    "breed": "Mastín"
+  },
+  {
+    "id": 20,
+    "name": "Daisy",
+    "bio": "Dalmata con manchas únicas y una energía realmente contagiosa.\nMe encanta correr a tu lado mientras vas en bicicleta o corres.\nSoy muy sociable y me emociono mucho al conocer gente nueva.",
+    "breed": "Dalmata"
+  },
+  {
+    "id": 21,
+    "name": "Cooper",
+    "bio": "Australian Shepherd con ojos de distinto color que te hechizarán.\nSoy un perro de trabajo que necesita mantenerse siempre ocupado.\nBusco una familia que me integre en todas sus actividades diarias.",
+    "breed": "Australian Shepherd"
+  },
+  {
+    "id": 22,
+    "name": "Sophie",
+    "bio": "Shih Tzu refinada que ama los lazos en el pelo y los cojines.\nSoy muy tranquila y mi pasatiempo favorito es ser tu sombra.\nIdeal para personas mayores que busquen compañía constante.",
+    "breed": "Shih Tzu"
+  },
+  {
+    "id": 23,
+    "name": "Buster",
+    "bio": "Staffordshire Bull Terrier con una sonrisa que ilumina cualquier día.\nSoy un saco de músculos lleno de amor y besos pegajosos.\nMe encanta jugar al tira y afloja y dormir a tus pies.",
+    "breed": "Staffordshire Bull Terrier"
+  },
+  {
+    "id": 24,
+    "name": "Chloe",
+    "bio": "Yorkshire Terrier pequeñita pero con un carácter muy decidido.\nMe encanta ladrar a los pájaros y ser el centro de atención.\nSoy la compañera perfecta para llevar en un bolso de viaje.",
+    "breed": "Yorkshire Terrier"
+  },
+  {
+    "id": 25,
+    "name": "Buddy",
+    "bio": "Basset Hound de orejas largas y mirada tierna que te derretirá.\nCamino despacio y disfruto oliendo cada flor del camino.\nBusco una familia que no tenga prisa y valore la calma.",
+    "breed": "Basset Hound"
+  },
+  {
+    "id": 26,
+    "name": "Sadie",
+    "bio": "Shetland Sheepdog muy obediente y siempre atenta a tus órdenes.\nMe encanta sentirme útil y participar en juegos de agilidad.\nSoy muy dulce con los niños y extremadamente protectora.",
+    "breed": "Shetland Sheepdog"
+  },
+  {
+    "id": 27,
+    "name": "Bear",
+    "bio": "Terranova de pelo negro y denso que parece un oso de verdad.\nAmo nadar y cualquier actividad que involucre agua fresca.\nSoy un salvavidas nato con un temperamento muy dócil.",
+    "breed": "Terranova"
+  },
+  {
+    "id": 28,
+    "name": "Maggie",
+    "bio": "English Bulldog perezosa que solo quiere dormir y comer.\nMis arrugas necesitan cuidados, pero mis besos lo compensan todo.\nSoy la definición de un perro de sofá de bajo mantenimiento.",
+    "breed": "English Bulldog"
+  },
+  {
+    "id": 29,
+    "name": "Lucky",
+    "bio": "Bodeguero andaluz muy vivo que no deja pasar ni una mosca.\nSoy un cazador de juguetes experto y siempre estoy alerta.\nIdeal para mantener tu casa alegre y libre de aburrimiento.",
+    "breed": "Bodeguero"
+  },
+  {
+    "id": 30,
+    "name": "Rosie",
+    "bio": "Pug con una cara expresiva que te hará reír a cada momento.\nMe encanta comer premios y ser el alma de todas las fiestas.\nBusco un dueño que me quiera por mi gran personalidad.",
+    "breed": "Pug"
+  },
+  {
+    "id": 31,
+    "name": "Teddy",
+    "bio": "Pomerania esponjoso que parece una pequeña bola de algodón.\nSoy muy vivaz y me encanta que me digan lo guapo que soy.\nRequiere cepillado diario para mantener mi pelaje perfecto.",
+    "breed": "Pomerania"
+  },
+  {
+    "id": 32,
+    "name": "Bailey",
+    "bio": "Bernese Mountain Dog de gran tamaño y pelaje tricolor hermoso.\nSoy un gigante gentil que se lleva bien con todo el mundo.\nPrefiero los climas fríos y las caminatas largas por la montaña.",
+    "breed": "Bernese Mountain Dog"
+  },
+  {
+    "id": 33,
+    "name": "Leo",
+    "bio": "Chow Chow de lengua azul y carácter algo independiente.\nSoy muy leal a mi familia pero reservado con los extraños.\nBusco un hogar tranquilo donde respeten mis momentos de paz.",
+    "breed": "Chow Chow"
+  },
+  {
+    "id": 34,
+    "name": "Ruby",
+    "bio": "Cavalier King Charles con una mirada que inspira ternura pura.\nSoy muy adaptable y me encanta estar rodeada de gente.\nMi misión en la vida es dar y recibir amor sin límites.",
+    "breed": "Cavalier King Charles"
+  },
+  {
+    "id": 35,
+    "name": "Milo",
+    "bio": "Pinscher miniatura con mucha energía en un cuerpo muy pequeño.\nSoy muy valiente y siempre te avisaré si alguien llega a casa.\nPerfecto para quienes buscan un perro pequeño pero activo.",
+    "breed": "Pinscher"
+  },
+  {
+    "id": 36,
+    "name": "Ginger",
+    "bio": "Vizsla de color canela con una elegancia natural al caminar.\nSoy un perro muy apegado que odia pasar mucho tiempo solo.\nMe llaman 'el perro velcro' porque siempre estaré a tu lado.",
+    "breed": "Vizsla"
+  },
+  {
+    "id": 37,
+    "name": "Oliver",
+    "bio": "Old English Sheepdog con mucho pelo que tapa mis ojos.\nSoy un perro juguetón y algo torpe que te hará sonreír.\nNecesito mucho espacio y sesiones regulares de peluquería.",
+    "breed": "Old English Sheepdog"
+  },
+  {
+    "id": 38,
+    "name": "Penny",
+    "bio": "Whippet veloz que disfruta de las carreras cortas y siestas largas.\nSoy muy silenciosa en casa y rara vez ladro sin motivo.\nIdeal para vivir en la ciudad si tengo mis dosis de carrera.",
+    "breed": "Whippet"
+  },
+  {
+    "id": 39,
+    "name": "Sam",
+    "bio": "Samoyedo de color blanco puro que siempre parece estar sonriendo.\nSoy muy sociable y me encanta jugar en la nieve o el frío.\nMi pelaje es espectacular pero requiere mucha dedicación y amor.",
+    "breed": "Samoyedo"
+  },
+  {
+    "id": 40,
+    "name": "Lily",
+    "bio": "Maltés pequeña y delicada que adora los mimos y el cariño.\nSoy la compañera perfecta para vivir en un piso pequeño.\nSiempre estaré lista para recibirte con saltos de alegría.",
+    "breed": "Maltés"
+  },
+  {
+    "id": 41,
+    "name": "Cody",
+    "bio": "Shiba Inu con una personalidad felina e independiente.\nSoy muy limpio y aprendo las normas de la casa rápidamente.\nBusco un dueño experimentado que entienda mi carácter único.",
+    "breed": "Shiba Inu"
+  },
+  {
+    "id": 42,
+    "name": "Abby",
+    "bio": "Pointer Inglés con una energía inagotable para el campo.\nMe encanta buscar cosas y mantenerme activa durante horas.\nNecesito una familia que ame el deporte y la naturaleza.",
+    "breed": "Pointer"
+  },
+  {
+    "id": 43,
+    "name": "Blu",
+    "bio": "Weimaraner de ojos claros y un pelaje gris plateado brillante.\nSoy muy atlético y necesito correr a diario para ser feliz.\nSoy extremadamente inteligente y necesito retos para mi mente.",
+    "breed": "Weimaraner"
+  },
+  {
+    "id": 44,
+    "name": "Roxy",
+    "bio": "Bull Terrier con una cabeza única y una energía desbordante.\nSoy muy divertida y me encanta hacer payasadas para reír.\nBusco un hogar activo que me brinde mucha disciplina y amor.",
+    "breed": "Bull Terrier"
+  },
+  {
+    "id": 45,
+    "name": "Finn",
+    "bio": "Brittany Spaniel muy ágil y siempre dispuesto a trabajar.\nMe encanta cobrar juguetes y participar en juegos de búsqueda.\nSoy muy cariñoso con los niños y otros animales de casa.",
+    "breed": "Brittany Spaniel"
+  },
+  {
+    "id": 46,
+    "name": "Hazel",
+    "bio": "Bloodhound de mirada triste pero con un olfato inigualable.\nSoy muy tranquila en casa pero imparable cuando sigo un rastro.\nBusco una familia paciente que me dé paseos muy largos.",
+    "breed": "Bloodhound"
+  },
+  {
+    "id": 47,
+    "name": "Jax",
+    "bio": "Malinois muy enfocado que necesita un trabajo o propósito claro.\nSoy extremadamente obediente y protector de mi familia.\nSolo apto para dueños con experiencia en perros de trabajo.",
+    "breed": "Malinois"
+  },
+  {
+    "id": 48,
+    "name": "Willow",
+    "bio": "Greyhound rescatada de las carreras que solo busca un sofá.\nSoy muy dulce, silenciosa y duermo la mayor parte del día.\nUna compañera perfecta para una vida urbana y tranquila.",
+    "breed": "Greyhound"
+  },
+  {
+    "id": 49,
+    "name": "Tank",
+    "bio": "Bullmastiff imponente que es en realidad un trozo de pan.\nSoy muy calmado y protector con los más pequeños de la casa.\nNo necesito mucho ejercicio, solo mucho amor y compañía.",
+    "breed": "Bullmastiff"
+  },
+  {
+    "id": 50,
+    "name": "Sasha",
+    "bio": "Husky Siberiana con ojos de cristal y un espíritu libre.\nMe encanta hablar y cantar cuando quiero llamar tu atención.\n¿Te unes a mi manada para vivir mil y una aventuras?",
+    "breed": "Husky"
+  }
+]

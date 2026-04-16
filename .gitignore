@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.local
+__pycache__/
+*.py[oc]
+.venv/
+asset-generation/.env
+app/dist/
+app/node_modules/

@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  /* Warm & friendly palette */
+  --color-paws-50:  #fff7ed;
+  --color-paws-100: #ffedd5;
+  --color-paws-200: #fed7aa;
+  --color-paws-300: #fdba74;
+  --color-paws-400: #fb923c;
+  --color-paws-500: #f97316;
+  --color-paws-600: #ea6c0a;
+  --color-paws-700: #c2570a;
+  --color-paws-800: #9a4511;
+  --color-paws-900: #7c3a10;
+
+  --color-fur-50:  #fdf6ee;
+  --color-fur-100: #faebd7;
+  --color-fur-200: #f5d5af;
+  --color-fur-300: #edb87f;
+  --color-fur-400: #e3954e;
+  --color-fur-500: #d97b2d;
+  --color-fur-600: #c06620;
+  --color-fur-700: #9e4f1d;
+  --color-fur-800: #7f401e;
+  --color-fur-900: #68361b;
+
+  --color-snout-50:  #fef9f0;
+  --color-snout-100: #fef0d9;
+  --color-snout-200: #fddcac;
+  --color-snout-300: #fbc175;
+  --color-snout-400: #f89d3c;
+  --color-snout-500: #f67f17;
+  --color-snout-600: #e7640c;
+  --color-snout-700: #c04c0d;
+  --color-snout-800: #993d12;
+  --color-snout-900: #7c3312;
+
+  --font-paws: 'Nunito', system-ui, sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: var(--font-paws);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: linear-gradient(135deg, #fdf6ee 0%, #fed7aa 50%, #fddcac 100%);
+  min-height: 100dvh;
+}
+
+#app {
+  height: 100%;
+}
+
+/* ── Glassmorphism card ─────────────────────────────────────── */
+.glass-card {
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow:
+    0 8px 32px rgba(194, 87, 10, 0.12),
+    0 2px 8px rgba(0, 0, 0, 0.06),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+.glass-action-bar {
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+/* ── Swipe hint labels ──────────────────────────────────────── */
+.swipe-label-like {
+  border: 3px solid #16a34a;
+  color: #16a34a;
+  transform: rotate(-15deg);
+}
+
+.swipe-label-pass {
+  border: 3px solid #dc2626;
+  color: #dc2626;
+  transform: rotate(15deg);
+}
+
+/* ── Card transition animations ────────────────────────────── */
+.card-enter-active {
+  transition: all 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.card-leave-active {
+  transition: all 0.3s cubic-bezier(0.55, 0, 1, 0.45);
+  pointer-events: none;
+}
+.card-enter-from {
+  opacity: 0;
+  transform: scale(0.88) translateY(24px);
+}
+.card-leave-to-like {
+  opacity: 0;
+  transform: translateX(110%) rotate(20deg);
+}
+.card-leave-to-pass {
+  opacity: 0;
+  transform: translateX(-110%) rotate(-20deg);
+}
+
+/* ── Page slide transition ──────────────────────────────────── */
+.slide-enter-active,
+.slide-leave-active {
+  transition: all 0.38s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.slide-enter-from {
+  opacity: 0;
+  transform: translateX(100%);
+}
+.slide-leave-to {
+  opacity: 0;
+  transform: translateX(-40%);
+}
+
+/* ── Pulse loader ───────────────────────────────────────────── */
+@keyframes pawPulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.5; transform: scale(0.92); }
+}
+.paw-pulse {
+  animation: pawPulse 1.4s ease-in-out infinite;
+}

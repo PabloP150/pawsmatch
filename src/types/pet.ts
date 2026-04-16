@@ -5,10 +5,14 @@ export interface Pet {
   breed: string;
 }
 
+export interface PetWithImage extends Pet {
+  imageUrl: string;
+}
+
 export type SwipeDecision = 'like' | 'pass';
 
 export interface MatchResult {
-  pet: Pet;
+  pet: PetWithImage;
   decision: SwipeDecision;
   timestamp: number;
 }

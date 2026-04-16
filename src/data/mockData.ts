@@ -1,5 +1,5 @@
 import type { Pet } from '../types/pet';
-import petsJson from '../../asset-generation/pets.json';
+import petsJson from './pets.json';
 
 export const pets: Pet[] = petsJson as Pet[];
 

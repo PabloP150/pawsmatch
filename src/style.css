@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-paws-50:  #fff7ed;
+  --color-paws-100: #ffedd5;
+  --color-paws-200: #fed7aa;
+  --color-paws-300: #fdba74;
+  --color-paws-400: #fb923c;
+  --color-paws-500: #f97316;
+  --color-paws-600: #ea6c0a;
+  --color-paws-700: #c2570a;
+  --color-paws-800: #9a4511;
+  --color-paws-900: #7c3a10;
+
+  --color-fur-50:  #fdf6ee;
+  --color-fur-100: #faebd7;
+  --color-fur-200: #f5d5af;
+  --color-fur-300: #edb87f;
+  --color-fur-400: #e3954e;
+  --color-fur-500: #d97b2d;
+  --color-fur-600: #c06620;
+  --color-fur-700: #9e4f1d;
+  --color-fur-800: #7f401e;
+  --color-fur-900: #68361b;
+
+  --font-paws: 'Nunito', system-ui, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100dvh;
+  font-family: var(--font-paws);
+  -webkit-font-smoothing: antialiased;
+  background: linear-gradient(135deg, #fdf6ee 0%, #fed7aa 50%, #fddcac 100%);
+}
+
+.glass-card {
+  background: rgba(255,255,255,0.75);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255,255,255,0.5);
+  box-shadow: 0 8px 32px rgba(194,87,10,0.12), 0 2px 8px rgba(0,0,0,0.06);
+}
